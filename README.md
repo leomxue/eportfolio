@@ -9,8 +9,8 @@
 
 ## --> Design Thinking
 #### < Electric Stove Controller App >
- #### > Report : https://docs.google.com/document/d/1rX_YiT85HvE3Lha6ilkHZSR7G9fONR4I_OPdfMuEu_k/edit?usp=sharing
- #### > Video :
+ #### > Report : https://elearning.utm.my/23241/pluginfile.php/375407/assignsubmission_file/submission_files/344889/DesignThinkingProject%20G7.docx?forcedownload=1
+ #### > Video : https://youtu.be/yQn6zsTrZWQ?feature=shared
 
 # REFLECTIONS 
 ## --> Assignment 1 : Poster
