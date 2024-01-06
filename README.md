@@ -4,6 +4,9 @@
 #### < Overview of ICT Jobs in Clarity Techworks SDN BHD >
   ![image](https://github.com/leomxue/eportfolio.github.io/assets/147922134/a90a32cb-e8c1-4f2e-9bb3-432a8660654f)
 
+## --> Assignment 2 : Video
+#### < A Visit to UTM DIGITAL >
+
 ## --> PC Assemble
 ![photo_2023-11-30_13-54-12](https://github.com/leomxue/eportfolio.github.io/assets/147922134/b4c4b19c-8f0f-4fc3-a233-1c7e01aeea2e)
 
@@ -15,6 +18,10 @@
 # REFLECTIONS 
 ## --> Assignment 1 : Poster
 ##### Through this Industrial Talk, I learned about the job scopes of web developers, Android developers, and more. The speakers also gave us advice and tips to motivate and guide us to the correct path. They also introduced different types of software and skills that are required for every job, such as Figma.
+
+## --> Assignment 2 : Video
+
+## --> Assignment 3 : Report
 
 ## --> PC Assemble
 ##### During the PC Assemble session, so far I have learned how to disassemble and reassemble a PC. Further, I was introduced to many different parts that are inside a PC. While the session was being carried out, the instructor also explained the names and functions of every part of the PC.
