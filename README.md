@@ -21,8 +21,10 @@
 ##### Through this Industrial Talk, I learned about the job scopes of web developers, Android developers, and more. The speakers also gave us advice and tips to motivate and guide us to the correct path. They also introduced different types of software and skills that are required for every job, such as Figma.
 
 ## --> Assignment 2 : Video
+##### It was a memorable visit to UTM Digital. We get to visit their workplace and some of the areas in the building. For example, the TM Room and staff also showed us how to use the HUAWEI IdeaHub Interative Board. Furthermore, we had the opportunity to meet the staff there and learn about their job scope.
 
 ## --> Assignment 3 : Report
+##### I have the opportunity to learn about analytics and some of the careers in analytics through this Indusrial Talk. For example, a data analyst and a data engineer. Furthermore, I also learn about the technologies and tools that they use in their daily lives, such as Python and Superset. For the next four years, I hope to be more creative and innovative. Continuous learning enables me to keep up with all the latest technology and explore new things.
 
 ## --> PC Assemble
 ##### During the PC Assemble session, so far I have learned how to disassemble and reassemble a PC. Further, I was introduced to many different parts that are inside a PC. While the session was being carried out, the instructor also explained the names and functions of every part of the PC.
