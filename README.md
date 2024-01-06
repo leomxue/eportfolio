@@ -6,6 +6,7 @@
 
 ## --> Assignment 2 : Video
 #### < A Visit to UTM DIGITAL >
+ #### > Video : https://www.canva.com/design/DAF3e0TUW-0/YMnniLbAUflc8wVDmdAJ5w/watch?utm_content=DAF3e0TUW-0&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## --> PC Assemble
 ![photo_2023-11-30_13-54-12](https://github.com/leomxue/eportfolio.github.io/assets/147922134/b4c4b19c-8f0f-4fc3-a233-1c7e01aeea2e)
