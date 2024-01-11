@@ -10,7 +10,8 @@
 
 ## --> Assignment 3 : Report
 #### < System Development @ Credence (TM Subsidiary) >
- #### > Report : 
+ #### > Report : [INDUSTRY TALK 2 - Group 7.pdf](https://github.com/leomxue/eportfolio.github.io/files/13897318/INDUSTRY.TALK.2.-.Group.7.pdf)
+
 
 ## --> PC Assemble
 ![photo_2023-11-30_13-54-12](https://github.com/leomxue/eportfolio.github.io/assets/147922134/b4c4b19c-8f0f-4fc3-a233-1c7e01aeea2e)
