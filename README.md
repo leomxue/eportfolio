@@ -12,7 +12,10 @@
 #### < System Development @ Credence (TM Subsidiary) >
  #### > Report : [INDUSTRY TALK 2 - Group 7.pdf](https://github.com/leomxue/eportfolio.github.io/files/13897318/INDUSTRY.TALK.2.-.Group.7.pdf)
 
-
+## --> Assignment 4 : NewsLetter
+#### < Tech-Driven Innovation (I-FARM) >
+ #### > NewsLetter : 
+ 
 ## --> PC Assemble
 ![photo_2023-11-30_13-54-12](https://github.com/leomxue/eportfolio.github.io/assets/147922134/b4c4b19c-8f0f-4fc3-a233-1c7e01aeea2e)
 
@@ -30,6 +33,9 @@
 
 ## --> Assignment 3 : Report
 ##### I have the opportunity to learn about analytics and some of the careers in analytics through this Indusrial Talk. For example, a data analyst and a data engineer. Furthermore, I also learn about the technologies and tools that they use in their daily lives, such as Python and Superset. For the next four years, I hope to be more creative and innovative. Continuous learning enables me to keep up with all the latest technology and explore new things.
+
+## --> Assignment 4 : NewsLetter
+##### I learned about how the farm works, from the ways they farm the vegetables up until how they create an online website for customers to place orders and make sure that their customers have fresh vegetables.This innovation truly helps people, especially housewives, easily gain access to fresh and organic vegetables, even during pandemics. People can place an order on the online store and have it delivered to their doorstep, or they can pick it up themselves.
 
 ## --> PC Assemble
 ##### During the PC Assemble session, so far I have learned how to disassemble and reassemble a PC. Further, I was introduced to many different parts that are inside a PC. While the session was being carried out, the instructor also explained the names and functions of every part of the PC.
