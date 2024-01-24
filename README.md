@@ -14,7 +14,8 @@
 
 ## --> Assignment 4 : NewsLetter
 #### < Tech-Driven Innovation (I-FARM) >
- #### > NewsLetter : 
+ #### > NewsLetter : [Newsletter IT3 (Tech-Driven Innovation).pdf](https://github.com/leomxue/eportfolio.github.io/files/14032995/Newsletter.IT3.Tech-Driven.Innovation.pdf)
+
  
 ## --> PC Assemble
 ![photo_2023-11-30_13-54-12](https://github.com/leomxue/eportfolio.github.io/assets/147922134/b4c4b19c-8f0f-4fc3-a233-1c7e01aeea2e)
